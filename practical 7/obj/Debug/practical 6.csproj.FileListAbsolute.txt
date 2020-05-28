@@ -1,0 +1,6 @@
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 6\bin\Debug\practical 6.exe.config
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 6\bin\Debug\practical 6.exe
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 6\bin\Debug\practical 6.pdb
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 6\obj\Debug\practical 6.csprojResolveAssemblyReference.cache
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 6\obj\Debug\practical 6.exe
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 6\obj\Debug\practical 6.pdb

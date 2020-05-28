@@ -1,0 +1,5 @@
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 7\bin\Debug\practical 7.exe.config
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 7\bin\Debug\practical 7.exe
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 7\bin\Debug\practical 7.pdb
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 7\obj\Debug\practical 7.exe
+D:\3rd year\sem 6\DotNet_6\Assignments\practical 7\obj\Debug\practical 7.pdb

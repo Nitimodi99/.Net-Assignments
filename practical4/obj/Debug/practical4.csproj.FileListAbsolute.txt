@@ -1,5 +1,0 @@
-G:\3rd year\sem 6\DotNet_6\Assignments\practical4\bin\Debug\practical4.exe.config
-G:\3rd year\sem 6\DotNet_6\Assignments\practical4\bin\Debug\practical4.exe
-G:\3rd year\sem 6\DotNet_6\Assignments\practical4\bin\Debug\practical4.pdb
-G:\3rd year\sem 6\DotNet_6\Assignments\practical4\obj\Debug\practical4.exe
-G:\3rd year\sem 6\DotNet_6\Assignments\practical4\obj\Debug\practical4.pdb

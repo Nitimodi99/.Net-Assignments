@@ -1,8 +1,0 @@
-G:\3rd year\sem 6\DotNet_6\Assignments\practical5\bin\Debug\practical5.exe.config
-G:\3rd year\sem 6\DotNet_6\Assignments\practical5\bin\Debug\practical5.exe
-G:\3rd year\sem 6\DotNet_6\Assignments\practical5\bin\Debug\practical5.pdb
-G:\3rd year\sem 6\DotNet_6\Assignments\practical5\obj\Debug\practical5.exe
-G:\3rd year\sem 6\DotNet_6\Assignments\practical5\obj\Debug\practical5.pdb
-D:\3rd year\sem 6\DotNet_6\Assignments\practical5\bin\Debug\practical5.exe.config
-D:\3rd year\sem 6\DotNet_6\Assignments\practical5\obj\Debug\practical5.exe
-D:\3rd year\sem 6\DotNet_6\Assignments\practical5\obj\Debug\practical5.pdb
