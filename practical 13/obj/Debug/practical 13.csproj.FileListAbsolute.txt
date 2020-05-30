@@ -1,0 +1,5 @@
+D:\3rd year\sem 6\DotNet_6\program excercise\WebApplication1\practical 13\obj\Debug\practical 13.csprojResolveAssemblyReference.cache
+D:\3rd year\sem 6\DotNet_6\program excercise\WebApplication1\practical 13\bin\practical 13.dll
+D:\3rd year\sem 6\DotNet_6\program excercise\WebApplication1\practical 13\bin\practical 13.pdb
+D:\3rd year\sem 6\DotNet_6\program excercise\WebApplication1\practical 13\obj\Debug\practical 13.dll
+D:\3rd year\sem 6\DotNet_6\program excercise\WebApplication1\practical 13\obj\Debug\practical 13.pdb
